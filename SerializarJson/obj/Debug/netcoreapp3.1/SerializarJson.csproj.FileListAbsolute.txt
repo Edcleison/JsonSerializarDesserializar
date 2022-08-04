@@ -1,0 +1,52 @@
+C:\Users\davin\source\repos\SerializarJson\SerializarJson\bin\Debug\netcoreapp3.1\SerializarJson.exe
+C:\Users\davin\source\repos\SerializarJson\SerializarJson\bin\Debug\netcoreapp3.1\SerializarJson.deps.json
+C:\Users\davin\source\repos\SerializarJson\SerializarJson\bin\Debug\netcoreapp3.1\SerializarJson.runtimeconfig.json
+C:\Users\davin\source\repos\SerializarJson\SerializarJson\bin\Debug\netcoreapp3.1\SerializarJson.runtimeconfig.dev.json
+C:\Users\davin\source\repos\SerializarJson\SerializarJson\bin\Debug\netcoreapp3.1\SerializarJson.dll
+C:\Users\davin\source\repos\SerializarJson\SerializarJson\bin\Debug\netcoreapp3.1\SerializarJson.pdb
+C:\Users\davin\source\repos\SerializarJson\SerializarJson\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\davin\source\repos\SerializarJson\SerializarJson\obj\Debug\netcoreapp3.1\SerializarJson.csprojAssemblyReference.cache
+C:\Users\davin\source\repos\SerializarJson\SerializarJson\obj\Debug\netcoreapp3.1\SerializarJson.AssemblyInfoInputs.cache
+C:\Users\davin\source\repos\SerializarJson\SerializarJson\obj\Debug\netcoreapp3.1\SerializarJson.AssemblyInfo.cs
+C:\Users\davin\source\repos\SerializarJson\SerializarJson\obj\Debug\netcoreapp3.1\SerializarJson.csproj.CoreCompileInputs.cache
+C:\Users\davin\source\repos\SerializarJson\SerializarJson\obj\Debug\netcoreapp3.1\SerializarJson.csproj.CopyComplete
+C:\Users\davin\source\repos\SerializarJson\SerializarJson\obj\Debug\netcoreapp3.1\SerializarJson.dll
+C:\Users\davin\source\repos\SerializarJson\SerializarJson\obj\Debug\netcoreapp3.1\SerializarJson.pdb
+C:\Users\davin\source\repos\SerializarJson\SerializarJson\obj\Debug\netcoreapp3.1\SerializarJson.genruntimeconfig.cache
+C:\Projetos - Demo\JsonSerializarDesserializar-main\SerializarJson\bin\Debug\netcoreapp3.1\SerializarJson.exe
+C:\Projetos - Demo\JsonSerializarDesserializar-main\SerializarJson\bin\Debug\netcoreapp3.1\SerializarJson.deps.json
+C:\Projetos - Demo\JsonSerializarDesserializar-main\SerializarJson\bin\Debug\netcoreapp3.1\SerializarJson.runtimeconfig.json
+C:\Projetos - Demo\JsonSerializarDesserializar-main\SerializarJson\bin\Debug\netcoreapp3.1\SerializarJson.runtimeconfig.dev.json
+C:\Projetos - Demo\JsonSerializarDesserializar-main\SerializarJson\bin\Debug\netcoreapp3.1\SerializarJson.dll
+C:\Projetos - Demo\JsonSerializarDesserializar-main\SerializarJson\bin\Debug\netcoreapp3.1\SerializarJson.pdb
+C:\Projetos - Demo\JsonSerializarDesserializar-main\SerializarJson\bin\Debug\netcoreapp3.1\EPPlus.dll
+C:\Projetos - Demo\JsonSerializarDesserializar-main\SerializarJson\bin\Debug\netcoreapp3.1\EPPlus.Interfaces.dll
+C:\Projetos - Demo\JsonSerializarDesserializar-main\SerializarJson\bin\Debug\netcoreapp3.1\EPPlus.System.Drawing.dll
+C:\Projetos - Demo\JsonSerializarDesserializar-main\SerializarJson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Projetos - Demo\JsonSerializarDesserializar-main\SerializarJson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Projetos - Demo\JsonSerializarDesserializar-main\SerializarJson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Projetos - Demo\JsonSerializarDesserializar-main\SerializarJson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Projetos - Demo\JsonSerializarDesserializar-main\SerializarJson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Projetos - Demo\JsonSerializarDesserializar-main\SerializarJson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Projetos - Demo\JsonSerializarDesserializar-main\SerializarJson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Projetos - Demo\JsonSerializarDesserializar-main\SerializarJson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Projetos - Demo\JsonSerializarDesserializar-main\SerializarJson\bin\Debug\netcoreapp3.1\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Projetos - Demo\JsonSerializarDesserializar-main\SerializarJson\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Projetos - Demo\JsonSerializarDesserializar-main\SerializarJson\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Projetos - Demo\JsonSerializarDesserializar-main\SerializarJson\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Projetos - Demo\JsonSerializarDesserializar-main\SerializarJson\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Projetos - Demo\JsonSerializarDesserializar-main\SerializarJson\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Projetos - Demo\JsonSerializarDesserializar-main\SerializarJson\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Projetos - Demo\JsonSerializarDesserializar-main\SerializarJson\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Projetos - Demo\JsonSerializarDesserializar-main\SerializarJson\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Projetos - Demo\JsonSerializarDesserializar-main\SerializarJson\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+C:\Projetos - Demo\JsonSerializarDesserializar-main\SerializarJson\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Projetos - Demo\JsonSerializarDesserializar-main\SerializarJson\obj\Debug\netcoreapp3.1\SerializarJson.csproj.AssemblyReference.cache
+C:\Projetos - Demo\JsonSerializarDesserializar-main\SerializarJson\obj\Debug\netcoreapp3.1\SerializarJson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos - Demo\JsonSerializarDesserializar-main\SerializarJson\obj\Debug\netcoreapp3.1\SerializarJson.AssemblyInfoInputs.cache
+C:\Projetos - Demo\JsonSerializarDesserializar-main\SerializarJson\obj\Debug\netcoreapp3.1\SerializarJson.AssemblyInfo.cs
+C:\Projetos - Demo\JsonSerializarDesserializar-main\SerializarJson\obj\Debug\netcoreapp3.1\SerializarJson.csproj.CoreCompileInputs.cache
+C:\Projetos - Demo\JsonSerializarDesserializar-main\SerializarJson\obj\Debug\netcoreapp3.1\SerializarJson.csproj.CopyComplete
+C:\Projetos - Demo\JsonSerializarDesserializar-main\SerializarJson\obj\Debug\netcoreapp3.1\SerializarJson.dll
+C:\Projetos - Demo\JsonSerializarDesserializar-main\SerializarJson\obj\Debug\netcoreapp3.1\SerializarJson.pdb
+C:\Projetos - Demo\JsonSerializarDesserializar-main\SerializarJson\obj\Debug\netcoreapp3.1\SerializarJson.genruntimeconfig.cache
